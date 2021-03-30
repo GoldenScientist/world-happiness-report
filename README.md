@@ -4,11 +4,12 @@ Had a look at happiness regarding different factors such as areas
 Linked happiness with terrorism and suicides
 First approach to Apache Hive
 
-Happiness: https://www.kaggle.com/unsdsn/world-happiness#2017.csv
-Suicide case: https://www.kaggle.com/szamil/who-suicide-statistics
-Worldwide Terrorism: https://www.kaggle.com/START-UMD/gtd
+## Datasets
+* Happiness: https://www.kaggle.com/unsdsn/world-happiness#2017.csv
+* Suicide case: https://www.kaggle.com/szamil/who-suicide-statistics
+* Worldwide Terrorism: https://www.kaggle.com/START-UMD/gtd
 
-
+## Code and results
 ```python
 #pip install pygal_maps_world & conda install -c conda-forge pyhamcrest  & pip install cairosvg & pycountry
 import pandas as pd
